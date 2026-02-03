@@ -2,7 +2,7 @@
 
 Este proyecto demuestra los conceptos básicos de POO en C#.
 
-Se implementa una clase llamada Producto que representa un objeto con atributos y métodos.
+Se implementa una clase llamada Libro que representa un objeto con atributos y métodos.
 
 Conceptos aplicados:
 - Clase y objeto
