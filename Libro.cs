@@ -19,7 +19,7 @@ public class Libro
         this.usuarioPrestamo = "";
     }
 
-    // Método para mostrar información del libro
+   // Método para mostrar información del libro
     public void MostrarInfo()
     {
         Console.WriteLine("Título: " + titulo);
